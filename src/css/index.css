@@ -1,0 +1,9 @@
+.header .container {
+  max-width: 1748px;
+}
+.header .logo {
+  max-width: 160px;
+}
+.header .logo-link {
+  display: inline-block;
+}/*# sourceMappingURL=index.css.map */
